@@ -2,3 +2,8 @@
 nom: ADOBAYA 
 prenom: samuel
 age: 18 ans
+
+Nom : LUCUIS
+Prénom : Nova Chrono
+Âge : 19 ans
+
