@@ -7,3 +7,4 @@ Nom : LUCUIS
 Prénom : Nova Chrono
 Âge : 19 ans
 
+je viens d'ajouter mon cv
